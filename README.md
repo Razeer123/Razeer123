@@ -1,4 +1,4 @@
-### Howdy 🤠
+### Hi 👋
 
 Working hard to learn `Swift` & `SwiftUI framework` in order to create beautiful iOS apps 👨‍💻
 
