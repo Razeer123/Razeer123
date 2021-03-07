@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Working hard to learn `Swift` & `SwiftUI / UIKit frameworks` in order to create beautiful iOS apps 👨‍💻
+Working hard to learn `Swift` & `SwiftUI framework / Cocoa Touch library` in order to create beautiful iOS apps 👨‍💻
 
 Programming in `Swift, Java, C#, C++, C`
 
