@@ -1,10 +1,10 @@
 ### Hi 👋
 
-Working hard to learn `Swift` & `SwiftUI framework / Cocoa Touch library` in order to create beautiful iOS apps 👨‍💻
+Currently I'm working as a **Junior Frontend Developer** at **PwC**. Stack: Angular + TypeScript.
 
-I'm also learning web development, mostly in `Typescript` using `Angular` framework.
+As a hobby, I'm learning `Swift` & `SwiftUI framework / Cocoa Touch library` in order to create beautiful iOS apps 👨‍💻
 
-Programming in `Swift, Java, C#, C++, C, JavaScript, TypeScript`
+Programming in `Swift, Java, C#, C++, C, JavaScript`
 
 [![Linkedin Badge](https://img.shields.io/badge/michal--derej-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/michal-derej/)
 [![E-mail Badge](https://img.shields.io/badge/-contact%40michalderej.com-red?style=flat&logo=Minutemailer&logoColor=white)](mailto:contact@michalderej.com)
