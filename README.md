@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Currently I'm working as a **Junior Frontend Developer** at **PwC**. Stack: Angular + TypeScript.
+Currently I'm working as a **Junior Frontend Developer** at **PwC**. Stack: JavaScript, TypeScript, Angular, React, AngularJS.
 
 As a hobby, I'm learning `Swift` & `SwiftUI framework / Cocoa Touch library` in order to create beautiful iOS apps 👨‍💻
 
