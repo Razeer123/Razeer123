@@ -1,10 +1,10 @@
 ### Hi 👋
 
-Currently I'm working as a **Junior Frontend Developer** at **PwC**. Stack: JavaScript, TypeScript, Angular, React, AngularJS.
+Currently, I'm working as a **Junior Frontend Developer** at **PwC**. Stack: JavaScript, TypeScript, Angular, React, AngularJS.
 
-As a hobby, I'm learning `Swift` & `SwiftUI framework / Cocoa Touch library` in order to create beautiful iOS apps 👨‍💻
+I'm working on an exciting new project. Stay tuned for the updates! 🥳
 
-Programming in `Swift, Java, C#, C++, C, JavaScript`
+Programming in `TypeScript / JavaScript, Python, C#, Java, C++, C, R`. Basically in anything I need to. 😏
 
 [![Linkedin Badge](https://img.shields.io/badge/michal--derej-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/michal-derej/)
 [![E-mail Badge](https://img.shields.io/badge/-contact%40michalderej.com-red?style=flat&logo=Minutemailer&logoColor=white)](mailto:contact@michalderej.com)
