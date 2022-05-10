@@ -1,5 +1,7 @@
 ### Hi 👋
 
+My name is Michał. I'm a software engineer and a computer science student.
+
 Programming in `TypeScript / JavaScript, Python, C#, Java, C++, C, R`. Basically in anything I need to. 😏
 
 [![Linkedin Badge](https://img.shields.io/badge/michal--derej-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/michal-derej/)
