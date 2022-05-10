@@ -1,9 +1,5 @@
 ### Hi 👋
 
-Currently, I'm working as a **Junior Frontend Developer** at **PwC**. Stack: JavaScript, TypeScript, Angular, React, AngularJS.
-
-I'm working on an exciting new project. Stay tuned for the updates! 🥳
-
 Programming in `TypeScript / JavaScript, Python, C#, Java, C++, C, R`. Basically in anything I need to. 😏
 
 [![Linkedin Badge](https://img.shields.io/badge/michal--derej-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/michal-derej/)
