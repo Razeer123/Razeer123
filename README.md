@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Michał. I'm a Software Engineer @Atlassian and a computer science student. Previously I worked at @mongodb
+My name is Michał. I'm a Software Engineer @Atlassian and a computer science student. Previously I worked at @MongoDB. 
 
 Programming in `Java, Kotlin, Go, TypeScript/JavaScript, Python, C#, C++, C`. Basically in anything I need to. 😏
 
